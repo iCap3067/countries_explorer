@@ -26,6 +26,6 @@ Para dar con los colores seleccionados para la funcionalidad (modo oscuro) se es
 --------------------------------------------------------------------------------------------------------------
 INSTRUCCIONES EJECUCION
 
-Lo primero que se tiene que hacer para asegurarse del correcto funcionamiento del proyecto es descargar con mucha atencion cada carpeta (.js y .css) y fijarse en que todo esté bien descargado y listo para su ejecución.
+Lo primero que se tiene que hacer para asegurarse del correcto funcionamiento del proyecto es descargar cada carpeta (.js y .css) y fijarse en que todo esté bien descargado y listo para su ejecución.
 
 Además de las carpetas también se requiere descargar el respectivo archivo (api.json) que será de vital importancia para el funcionamiento del proyecto.
